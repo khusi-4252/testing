@@ -6,14 +6,19 @@
 
 hello how are you??? its paragraph  
 
+  ### the thing whatever written here in this part is ignored by browser
+
 </p>
 
 <p>
 remind you agin its para part
+
+## the thing whatever written here in this part is ignored by browser
 </p>
 
 <p>
-it fun to learn
+it fun to learn 
+#####- we have taken this code referecne from  https://www.w3schools.com/html/tryit.asp?filename=tryhtml_paragraphs2
 </p>
 
 </body>
